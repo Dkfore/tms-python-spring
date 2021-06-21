@@ -1,0 +1,9 @@
+venv
+.idea
+
+/Z10
+
+# lessons
+lesson_11.py
+lesson_12.py
+students_info.csv
